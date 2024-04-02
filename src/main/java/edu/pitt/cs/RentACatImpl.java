@@ -7,8 +7,6 @@ public class RentACatImpl implements RentACat {
 
 	private ArrayList<Cat> cats = new ArrayList<Cat>();
 
-	//heck
-
 	/**
 	 * Return a cat. This should call the .returnCat() method on the cat for the
 	 * passed-in cat id. If the cat with the id exists in the list of cats and has
